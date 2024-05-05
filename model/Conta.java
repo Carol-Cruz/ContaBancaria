@@ -83,7 +83,6 @@ public class Conta {
 			tipo = "Conta Poupança";
 			break;
 		}
-		
 
 		System.out.println("\n\n***********************************************************");
 		System.out.println("Dados da Conta:");
